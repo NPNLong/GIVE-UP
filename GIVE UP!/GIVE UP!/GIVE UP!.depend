@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1716914951 source:c:\users\admin\code\give up!\main.cpp
+	<iostream>
+	<cmath>
+	<list>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"graphics.h"
+	"defs.h"
+	"mouse.h"
+	"game.h"
+	"effects.h"
+	"player.h"
+	"stage.h"
+	"obstacles.h"
+
+1716914951 c:\users\admin\code\give up!\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	<vector>
+
+1716914951 c:\users\admin\code\give up!\defs.h
+
+1716914951 c:\users\admin\code\give up!\mouse.h
+
+1716914951 c:\users\admin\code\give up!\game.h
+	"effects.h"
+	"player.h"
+
+1716914951 c:\users\admin\code\give up!\effects.h
+
+1716914951 c:\users\admin\code\give up!\player.h
+
+1716914951 c:\users\admin\code\give up!\stage.h
+	<cmath>
+	<list>
+	"game.h"
+
+1716914951 c:\users\admin\code\give up!\obstacles.h
+
