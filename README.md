@@ -81,9 +81,13 @@
 
 ## **A few words from GAME DEVELOPER (IT'S ME)**
 - GIVE UP! is a product for a major assignment in class 2324II_INT2215_21/Advanced Programming, but I decided to release it for everyone to experience!
+
 - GIVE UP! is the first game project I developed, in 14 days. However, my skills and understanding of code are still very limited, so the game still has some errors or bugs, and the code is not very logical and compact. We hope you sympathize and enjoy this game, and we also hope that someone will be able to overcome the highest difficulty of the game.
-- Note: people with a history of heart disease or quick temper should consider before playing, because GIVE UP! will be quite frustrating. When the phone crashes, don't tell me I didn't remind you first!
+
+- Note: people with a history of heart disease or quick temper should consider before playing, because GIVE UP! will be quite frustrating. When your Laptop or PC is crashed, don't tell me I didn't remind you first!
+
 - You should plug in the charger while playing to optimize the experience.
+
 - Finally, thank you everyone for playing GIVE UP!. Wishing you a fun and relaxing experience with GIVE UP!
 
 # ***Vietnamese/Tiếng Việt***
@@ -168,9 +172,13 @@
 
 ## **Đôi lời từ nhà phát triển game (chính là TÔI)**
 - GIVE UP! là sản phẩm cho bài tập lớn của lớp 2324II_INT2215_21/Lập trình nâng cao, tuy nhiên tôi quyết định sẽ phát hành cho mọi người cùng trải nghiệm!
+
 - GIVE UP! là project game đầu tiên do tôi phát triển, trong 14 ngày. Tất nhiên những kỹ năng và hiểu biết của tôi về code vẫn còn rất hạn chế nên game vẫn còn tồn đọng một số lỗi hay bugs, code cũng chưa được logic và gọn cho lắm. Rất mong các bạn thông cảm và enjoy tựa game này, và cũng rất mong sẽ có ai đó vượt qua được độ khó cao nhất của game.
+
 - Lưu ý: những người có tiền sử bệnh tim hoặc dễ nóng tính nên cân nhắc trước khi chơi, vì GIVE UP! sẽ khá ức chế. Đến khi đập máy đừng bảo tôi không nhắc trước nhé!
+
 - Các bạn nên cắm sạc khi chơi để tối ưu hóa trải nghiệm.
+
 - Sau cùng thì, cảm ơn tất cả mọi người đã chơi GIVE UP!. Chúc mọi người có những trải nghiệm vui vẻ và thư giãn cùng GIVE UP!
 
 ![image](https://github.com/NPNLong/GIVE-UP/blob/master/Preview/demoThanks.png)
