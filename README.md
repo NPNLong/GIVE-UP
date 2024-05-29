@@ -42,6 +42,7 @@
 ![image](https://github.com/NPNLong/GIVE-UP/blob/master/Preview/demoHtp.png)
 
 ## **Installation Instructions**
+- Download GIVE UP! folder from my repository
 - Download [CODEBLOCK 20.03](https://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows) (version codeblocks-20.03mingw-setup.exe)
 - Download SDL_main (download the latest version) (Video tutorial [SDL SETUP](https://youtu.be/kxi0TMXEG3g?si=WKFCIajBuIBmqr7P))
 - Download additional SDL_image and SDL_mixer, setup similar to SDL_main
@@ -128,6 +129,7 @@
 ![image](https://github.com/NPNLong/GIVE-UP/blob/master/Preview/demoHtp.png)
 
 ## **Hướng dẫn cài đặt**
+- Tải folder GIVE UP! từ repository của tôi
 - Tải [CODEBLOCK 20.03](https://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows) (bản codeblocks-20.03mingw-setup.exe)
 - Tải SDL_main (tải bản mới nhất) (Video hướng dẫn [SDL SETUP](https://youtu.be/kxi0TMXEG3g?si=WKFCIajBuIBmqr7P))
 - Tải thêm SDL_image và SDL_mixer, setup tương tự SDL_main
