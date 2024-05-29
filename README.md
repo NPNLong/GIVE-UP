@@ -82,7 +82,7 @@
 ## **A few words from GAME DEVELOPER (IT'S ME)**
 - GIVE UP! is a product for a major assignment in class 2324II_INT2215_21/Advanced Programming, but I decided to release it for everyone to experience!
 
-- GIVE UP! is the first game project I developed, in 14 days. However, my skills and understanding of code are still very limited, so the game still has some errors or bugs, and the code is not very logical and compact. We hope you sympathize and enjoy this game, and we also hope that someone will be able to overcome the highest difficulty of the game.
+- GIVE UP! is the first game project I developed, in 14 days. However, my skills and understanding of code are still very limited, so the game still has some errors or bugs, and the code is not very logical and compact. We hope you sympathize and enjoy this game, and we also hope that someone will pass the highest difficulty of the game.
 
 - Note: people with a history of heart disease or quick temper should consider before playing, because GIVE UP! will be quite frustrating. When your Laptop or PC is crashed, don't tell me I didn't remind you first!
 
