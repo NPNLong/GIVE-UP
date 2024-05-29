@@ -55,7 +55,7 @@
 ## **See more**
 
 ### *Using*
-- SDL2.0 library (main, image, mixer) (discussion on [StudyPlan.dev](https://www.studyplan.dev/sdl-dev/sdl-setup-mac) and [lazyfoo.net] (https://lazyfoo.net/tutorials/SDL/index.php), combined with class materials)
+- SDL2.0 library (main, image, mixer) (discussion on [StudyPlan.dev](https://www.studyplan.dev/sdl-dev/sdl-setup-mac) and [lazyfoo.net](https://lazyfoo.net/tutorials/SDL/index.php), combined with class materials)
 - Many classes, vectors, file separation, lists, ...
 - Program to get coordinates to design the game screen (written by myself)
 - Mouse events, keyboard events, collision handling
