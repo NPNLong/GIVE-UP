@@ -45,7 +45,7 @@
 - Download GIVE UP! folder from my repository
 - Download [CODEBLOCK 20.03](https://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows) (version codeblocks-20.03mingw-setup.exe)
 - Download SDL_main (download the latest version) (Video tutorial [SDL SETUP](https://youtu.be/kxi0TMXEG3g?si=WKFCIajBuIBmqr7P))
-- Download additional SDL_image and SDL_mixer, setup similar to SDL_main
+- Download additional SDL_image and SDL_mixer, setup similar to SDL_main (Video tutorial [SDL_image SETUP](https://youtu.be/DoRyZaFZekQ?si=x-G0Z4-yQTSuEfJo) [SDL_mixer SETUP](https://youtu.be/kdQkyq6T3lY?si=4xYetTcnkqwA28vp))
 - Go to CodeBlock, press "open an existing project"
 - Choose GIVE UP! folder, which was just downloaded
 - Choose GIVE UP! which has a icon of 4 colors window, open it
@@ -132,7 +132,7 @@
 - Tải folder GIVE UP! từ repository của tôi
 - Tải [CODEBLOCK 20.03](https://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows) (bản codeblocks-20.03mingw-setup.exe)
 - Tải SDL_main (tải bản mới nhất) (Video hướng dẫn [SDL SETUP](https://youtu.be/kxi0TMXEG3g?si=WKFCIajBuIBmqr7P))
-- Tải thêm SDL_image và SDL_mixer, setup tương tự SDL_main
+- Tải thêm SDL_image và SDL_mixer, setup tương tự SDL_main (Video hướng dẫn [SDL_image SETUP](https://youtu.be/DoRyZaFZekQ?si=x-G0Z4-yQTSuEfJo) [SDL_mixer SETUP](https://youtu.be/kdQkyq6T3lY?si=4xYetTcnkqwA28vp))
 - Vào CodeBlock, ấn "open an existing project"
 - Chọn folder GIVE UP! vừa tải về
 - Chọn GIVE UP! có hình 4 ô cửa sổ với 4 màu, mở nó
