@@ -62,11 +62,12 @@
 - Game programmer: Nguyen Phuoc Nguong Long
 
 - Graphic design: Nguyen Phuoc Nguong Long
+
 - Music:
- + [Blippblipp - Bunnymajs](https://www.youtube.com/watch?v=-OA40EmV4pM)
- + [Travelling The Galaxy (Run 3 OST) - F777](https://www.youtube.com/watch?v=y3OENpFav4U)
- + [Surface - dimrain47](https://www.youtube.com/watch?v=c49YzuLDwF0)
- + [Nuclear Fusion REDUX - SSJ3-Goku4567](https://www.youtube.com/watch?v=3_jMC_EDmKM)
+  + [Blippblipp - Bunnymajs](https://www.youtube.com/watch?v=-OA40EmV4pM)
+  + [Travelling The Galaxy (Run 3 OST) - F777](https://www.youtube.com/watch?v=y3OENpFav4U)
+  + [Surface - dimrain47](https://www.youtube.com/watch?v=c49YzuLDwF0)
+  + [Nuclear Fusion REDUX - SSJ3-Goku4567](https://www.youtube.com/watch?v=3_jMC_EDmKM)
 
 - Sound (SFX): from RETRO SFX found on YOUTUBE
 
