@@ -636,7 +636,7 @@ int main(int argc, char *argv[])
                 obs.push_front(obstacle);
 
                 for(int i=0; i<39; i++){
-                    alien.spawnPlayer(graphics, 17+i*35, 2600 - mul*200, 17+i*35, 0, 1, 1, 1);
+                    alien.spawnPlayer(graphics, 17+i*35, 2800 - mul*200, 17+i*35, 0, 1, 1, 1);
                 aln.push_back(alien);
                 }
 
@@ -668,16 +668,10 @@ int main(int argc, char *argv[])
                 alien.spawnPlayer(graphics, 614-140*3, 474, 614-140*3, 474, 0, 1, 1);
                 aln.push_back(alien);
 
-                alien.spawnPlayer(graphics, 86, 439, 157, 439, 1, 0, 1);
+                alien.spawnPlayer(graphics, 81, 439, 162, 439, 1, 0, 1);
                 aln.push_back(alien);
 
-                alien.spawnPlayer(graphics, 86, 404, 157, 404, 1, 0, 1);
-                aln.push_back(alien);
-
-                alien.spawnPlayer(graphics, 157, 299, 86, 299, 1, 0, 0);
-                aln.push_back(alien);
-
-                alien.spawnPlayer(graphics, 157, 264, 86, 264, 1, 0, 0);
+                alien.spawnPlayer(graphics, 162, 264, 81, 264, 1, 0, 0);
                 aln.push_back(alien);
 
                 for(int i=0; i<4; i++){
@@ -803,9 +797,6 @@ int main(int argc, char *argv[])
 
                 for (int i=0; i<2; i++){
                 alien.spawnPlayer(graphics, 858, 615-7*i*35, 1173, 615-7*i*35, 1, 0, 1);
-                aln.push_back(alien);
-
-                alien.spawnPlayer(graphics, 1175, 650-7*i*35, 858, 650-7*i*35, 1, 0, 0);
                 aln.push_back(alien);
 
                 alien.spawnPlayer(graphics, 858, 685-7*i*35, 1173, 685-7*i*35, 1, 0, 1);
