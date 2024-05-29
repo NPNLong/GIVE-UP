@@ -1,5 +1,5 @@
-# ***GIVE UP!***
-# **English/Tiếng Anh**
+# **GIVE UP!**
+# ***English/Tiếng Anh***
 ## **Introduction**
 + Full name: Nguyen Phuoc Nguong Long (NPNLong) - K68N - UET
 
@@ -10,8 +10,8 @@
 
 ### *Description*
 - GIVE UP! is a SIMPLE game using C++ and SDL 2.0
-- You are a white square, without any weapons or any skills. All you need to do is overcome all the obstacles and reach the finish line. And one thing to keep in mind is, DON'T GIVE UP!
-- The game is designed with RETRO-oriented graphics, reminiscent of the legendary arcade games or ARCADE GAMES from the 70s and 80s of the last century.
+- You are a white square, without any weapons or any skills. All you need to do is pass all the obstacles and reach the GOAL. And one thing to keep in mind is, DON'T GIVE UP!
+- The game is designed with RETRO-oriented graphics, reminiscent of epic ARCADE GAMES from the 70s and 80s of the last century.
 - The music and sound effects in the game are also RETRO-oriented, combined with modern electronic music.
 
 ![image](https://github.com/NPNLong/GIVE-UP/blob/master/GIVE%20UP!/GIVE%20UP!/Image/Intro/Intro%207.png)
@@ -19,10 +19,10 @@
 ### *Detail*
 - A small INTRO when starting the game.
 - Main menu.
-- The game has 3 difficulty levels and 12 levels. At certain levels, new features will be added, increasing the CHALLENGE and DRAMA of the game.
-- Each level will include CHARACTERS, PATHS, WALLS, DESTINATIONS and a number of other features in higher levels. At the top left is Pause the game, press ESC to Pause. The top right shows the current level you are playing.
-- You will WIN when you pass all 12 levels.
-- Secret is only found after you pass all 12 levels of HELL difficulty.
+- The game has 3 difficulties and 12 stages. At certain stages, new features will be added, increasing the CHALLENGE of the game.
+- Each stage will include CHARACTERS, PATHS, WALLS, DESTINATIONS and a number of other features in higher levels. At the top left is Pause the game, press ESC to Pause. The top right shows the current stage you are playing.
+- You will WIN when you pass all 12 stages.
+- Secret is only found after you pass all 12 stages of HELL difficulty.
 
 ![image](https://github.com/NPNLong/GIVE-UP/blob/master/Preview/demoIntro.png)
 
@@ -42,7 +42,14 @@
 ![image](https://github.com/NPNLong/GIVE-UP/blob/master/Preview/demoHtp.png)
 
 ## **Installation Instructions**
-*(updating)*
+- Download [CODEBLOCK 20.03](https://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows) (version codeblocks-20.03mingw-setup.exe)
+- Download SDL_main (download the latest version) (Video tutorial [SDL SETUP](https://youtu.be/kxi0TMXEG3g?si=WKFCIajBuIBmqr7P))
+- Download additional SDL_image and SDL_mixer, setup similar to SDL_main
+- Go to CodeBlock, press "open an existing project"
+- Choose GIVE UP! folder, which was just downloaded
+- Choose GIVE UP! which has a icon of 4 colors window, open it
+- In the toolbar (2nd from the top), press "Build and run" (gear symbol and triangle)
+- *(updating)*
 
 ## **See more**
 
@@ -75,9 +82,10 @@
 - GIVE UP! is a product for a major assignment in class 2324II_INT2215_21/Advanced Programming, but I decided to release it for everyone to experience!
 - GIVE UP! is the first game project I developed, in 14 days. However, my skills and understanding of code are still very limited, so the game still has some errors or bugs, and the code is not very logical and compact. We hope you sympathize and enjoy this game, and we also hope that someone will be able to overcome the highest difficulty of the game.
 - Note: people with a history of heart disease or quick temper should consider before playing, because GIVE UP! will be quite frustrating. When the phone crashes, don't tell me I didn't remind you first!
+- You should plug in the charger while playing to optimize the experience.
 - Finally, thank you everyone for playing GIVE UP!. Wishing you a fun and relaxing experience with GIVE UP!
 
-# **Vietnamese/Tiếng Việt**
+# ***Vietnamese/Tiếng Việt***
 ## **Giới thiệu chung**
 + Họ và tên: Nguyễn Phước Ngưỡng Long (NPNLong) - K68N - UET
 
@@ -120,7 +128,14 @@
 ![image](https://github.com/NPNLong/GIVE-UP/blob/master/Preview/demoHtp.png)
 
 ## **Hướng dẫn cài đặt**
-*(đang cập nhật)*
+- Tải [CODEBLOCK 20.03](https://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows) (bản codeblocks-20.03mingw-setup.exe)
+- Tải SDL_main (tải bản mới nhất) (Video hướng dẫn [SDL SETUP](https://youtu.be/kxi0TMXEG3g?si=WKFCIajBuIBmqr7P))
+- Tải thêm SDL_image và SDL_mixer, setup tương tự SDL_main
+- Vào CodeBlock, ấn "open an existing project"
+- Chọn folder GIVE UP! vừa tải về
+- Chọn GIVE UP! có hình 4 ô cửa sổ với 4 màu, mở nó
+- Ở thanh công cụ (đứng thứ 2 từ trên xuống), ấn "Build and run" (ký hiệu bánh răng và hình tam giác)
+- *(đang cập nhật)*
   
 ## **Xem thêm**  
 
@@ -153,6 +168,7 @@
 - GIVE UP! là sản phẩm cho bài tập lớn của lớp 2324II_INT2215_21/Lập trình nâng cao, tuy nhiên tôi quyết định sẽ phát hành cho mọi người cùng trải nghiệm!
 - GIVE UP! là project game đầu tiên do tôi phát triển, trong 14 ngày. Tất nhiên những kỹ năng và hiểu biết của tôi về code vẫn còn rất hạn chế nên game vẫn còn tồn đọng một số lỗi hay bugs, code cũng chưa được logic và gọn cho lắm. Rất mong các bạn thông cảm và enjoy tựa game này, và cũng rất mong sẽ có ai đó vượt qua được độ khó cao nhất của game.
 - Lưu ý: những người có tiền sử bệnh tim hoặc dễ nóng tính nên cân nhắc trước khi chơi, vì GIVE UP! sẽ khá ức chế. Đến khi đập máy đừng bảo tôi không nhắc trước nhé!
+- Các bạn nên cắm sạc khi chơi để tối ưu hóa trải nghiệm.
 - Sau cùng thì, cảm ơn tất cả mọi người đã chơi GIVE UP!. Chúc mọi người có những trải nghiệm vui vẻ và thư giãn cùng GIVE UP!
 
 ![image](https://github.com/NPNLong/GIVE-UP/blob/master/Preview/demoThanks.png)
