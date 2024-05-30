@@ -636,7 +636,7 @@ int main(int argc, char *argv[])
                 obs.push_front(obstacle);
 
                 for(int i=0; i<39; i++){
-                    alien.spawnPlayer(graphics, 17+i*35, 2800 - mul*200, 17+i*35, 0, 1, 1, 1);
+                    alien.spawnPlayer(graphics, 17+i*35, 3350 - (mul-1)*300, 17+i*35, 0, 1, 1, 1);
                 aln.push_back(alien);
                 }
 
