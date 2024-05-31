@@ -758,7 +758,7 @@ int main(int argc, char *argv[])
                 }
 
                 for(int i=0; i<39; i++){
-                    alien.spawnPlayer(graphics, 17+i*35, -7000 + mul*700, 17+i*35, 1366, 1, 1, 0);
+                    alien.spawnPlayer(graphics, 17+i*35, -8500 + mul*500, 17+i*35, 1366, 1, 1, 0);
                     aln.push_back(alien);
                 }
 
